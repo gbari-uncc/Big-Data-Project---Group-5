@@ -9,8 +9,8 @@
             Gautham Raj Bari - 801274985
             Mounika Gottumukkala - 801276287 
  ###    b)  Communication plan to include project artifact repository:
-          - Github Repository link:
-          - Project notes link:
+          - Github Repository link: https://github.com/gbari-uncc/Big-Data-Project---Group-5.git
+          - Project notes link: https://docs.google.com/document/d/1a1OeyMk7v8ahIMrTptckOU3W4sFB-7zqB1-u46igZFE/edit
           - As a team we have decided to communicate virtually via google meet or zoom links every Thursday. 
           - Every tuesday after the class, we have planned to meet offline for around 30 minutes to 1 hours to dicsuss the next steps and any problems that we are                 facing.
 
