@@ -3,7 +3,7 @@
 ## 1) Team
 
   ###   a)  Members: 
-            Saumit 
+            Saumit  - 801305320
             Mahesh Hasbi - 801315534
             Thanmaiye Namburi - 801281518
             Gautham Raj Bari - 801274985
@@ -35,5 +35,5 @@ Questions:
   - Depict the difference in catch sum and real value. 
   - Use ML models to predict the future values. 
   
-  Note: The scope of the questions might change as we furhter dwell into the project.
+  Note: The scope of the questions might change as we further dwell into the project.
   
