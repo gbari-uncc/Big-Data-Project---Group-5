@@ -16,8 +16,9 @@
           - Every Tuesday after class, we have planned to meet offline for around 30 minutes to 1 hour to discuss and assign the next project deliverables among the team.
 
 ## 2) Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem or opportunity):-
-  > Commercial fishing is also a main contributor for Ocean pollution through the practices they follow.
-    We wanted to figure out the entity that is responsible for fishing and also find out the reported and unaccounted catch amount from the data set.
+  > Sea around Us Global Fisheries Catch Data is a centralized database that houses crucial information on various fisheries operating in many nations and their associated effects on marine ecosystems worldwide. The efficiency of regional fisheries management organizations and the anticipated consequences of climate change on fisheries statistics are also covered. The datasets present are regularly updated which makes this an accurate and reliable datasource for data analysis and generating predictive models.
+  > We intend to visualize relationships and generate insights about the data across different commercial groups belonging to different sectors for different years. Through this we would be able to understand if there are any trends followed and also point to any outliers if existing. This analysis will paint a clear picture about the underlying dataset and help draw conclusions.
+  > Commercial fishing is also a main contributor for Ocean pollution through the practices that are followed. We also aim to figure out the entity responsible for fishing and also find out the reported and unaccounted catch amounts from the dataset. 
     
 ## 3) Selection of relevant data from the sample datasets for AWS Sagemaker:-
  
@@ -26,15 +27,15 @@
 ## 4) Research Objectives and Question(s) 
 
   ### Objectives:
-    > - Use Amazon Web Services to analyze the Global Fisheries Catch Dataset
-      - Extract meaningful insights by developing key performance indicators (KPI's) which highlight key business attributes which are essential for evaluating and measuring business functionality
-      - Designing detailed and engaging dashboards for visualizing our analysis.
+    > - Use Amazon Web Services to analyze the Global Fisheries Catch Dataset.
+      - Extract meaningful insights by developing key performance indicators (KPI's) which highlight key attributes which are essential for evaluating business functionality, gauge performance and identify patterns among the data. 
+      - Designing detailed and engaging dashboards for visualizing our derived conclusions after analysis.
 
   Questions:
   > - Showcase the various institutions, industries involved. 
     - Depict the YoY increase or decrease in fishing by each industry. 
     - Analyze the YoY increase or decrease.
     - Depict the difference in catch sum and real value.
-    - Use ML models to predict the future values. 
+    - Use Machine Learning models for predicting future estimates based on current dataset values. 
   
 Note: The scope of the questions might change as we further dwell into the project.
