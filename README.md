@@ -26,7 +26,9 @@
 ## 4) Research Objectives and Question(s) 
 
   ### Objectives:
-    > - Use Amazon Web Services to analyze the Global Fisheries Catch Dataset, extract meaningful insights by developing key performance indicators (KPI's) which   highlight key business attributes which are essential for evaluating and measuring business functionality and lastly designing detailed and engaging dashboards for visualizing our analysis.
+    > - Use Amazon Web Services to analyze the Global Fisheries Catch Dataset
+      - Extract meaningful insights by developing key performance indicators (KPI's) which highlight key business attributes which are essential for evaluating and measuring business functionality
+      - Designing detailed and engaging dashboards for visualizing our analysis.
 
   Questions:
   > - Showcase the various institutions, industries involved. 
