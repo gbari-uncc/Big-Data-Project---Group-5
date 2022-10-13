@@ -3,7 +3,7 @@
 ## 1) Team
 
   ###   a)  Members: 
-            Saumit 
+            Saumit Chinchkhandi - 801305320
             Mahesh Hasbi - 801315534
             Thanmaiye Namburi - 801281518
             Gautham Raj Bari - 801274985
