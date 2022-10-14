@@ -12,7 +12,7 @@
   ###   b)  Communication plan to include project artifact repository:
           - Github Repository link: https://github.com/gbari-uncc/Big-Data-Project---Group-5.git
           - Project notes link: https://docs.google.com/document/d/1a1OeyMk7v8ahIMrTptckOU3W4sFB-7zqB1-u46igZFE/edit
-          - As a team, we have decided to followup virtually through Google Meet or Zoom every Thursday for analyzing ongoing project feauture additions and solving issues that might surface during the development. 
+          - As a team, we have decided to followup virtually through Google Meet or Zoom every Thursday for analyzing ongoing project feature additions and solving issues that might surface during the development. 
           - Every Tuesday after class, we have planned to meet offline for around 30 minutes to 1 hour to discuss and assign the next project deliverables among the team.
 
 ## 2) Business Problem or Opportunity, Domain Knowledge (link to information on domain relative to data, problem or opportunity):-
