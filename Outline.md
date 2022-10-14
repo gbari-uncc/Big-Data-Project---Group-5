@@ -33,9 +33,9 @@
 
   Questions:
   > - Showcase the various institutions, industries involved. 
-    - Depict the YoY increase or decrease in fishing by each industry. 
-    - Analyze the YoY increase or decrease.
-    - Depict the difference in catch sum and real value.
-    - Use Machine Learning models for predicting future estimates based on current dataset values. 
+   > - Depict the YoY increase or decrease in fishing by each industry. 
+    >- Analyze the YoY increase or decrease.
+    >- Depict the difference in catch sum and real value.
+    >- Use Machine Learning models for predicting future estimates based on current dataset values. 
   
 Note: The scope of the questions might change as we further dwell into the project.
