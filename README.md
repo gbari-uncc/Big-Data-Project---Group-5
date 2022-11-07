@@ -33,8 +33,8 @@
       - Designing detailed and engaging dashboards for visualizing our derived conclusions after analysis using Amazon QuickSight.
 
   Questions:
-  > Number of flights On-Time, Delayed, Cancelled, Diverted per month,per quarter and per year between 2018-2022. 
-  > Which Airline Operators flights are Delayed, Cancelled currently and will most likely experience delays in the future? Identify any paramters causing these delays
+  - > Number of flights On-Time, Delayed, Cancelled, Diverted per month,per quarter and per year between 2018-2022. 
+  - > Which Airline Operators flights are Delayed, Cancelled currently and will most likely experience delays in the future? Identify any paramters causing these  delays
   > Which Origin and Destination airports are the most and least effecient based on number of flight cancellations, delays etc.
   > Plotting ArrivalDelay and DepartureDelays values for different flight operators on a monthly basis to determine patterns and trends across several years.
   > Analyze YoY increase or decrease in flight On-Time, Cancellations, Delays and Diversions.
