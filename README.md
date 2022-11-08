@@ -42,3 +42,36 @@
  
   
 Note: The scope of the questions might change as we further dwell into the project.
+
+
+## 5)  Data Preparation
+
+ - We uploaded the data into S3 bucket.
+ - We used AWS s3 copy command to load the data into Jupyter notebook instance. 
+ - Combined the data into a combined dataframe.
+ - <img width="857" alt="image" src="https://user-images.githubusercontent.com/97850156/200449617-42702e5a-c401-4049-a5c3-ea38d781df22.png">
+
+
+
+## 6)  Data Understanding
+- We used Numpy and Pandas to understand and explore the data.
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/97850156/200449876-59bf321f-1921-4831-816f-fdc91fafa860.png">
+
+- <img width="769" alt="image" src="https://user-images.githubusercontent.com/97850156/200449947-73900dce-4e58-4b01-9d8f-da894d9cbb50.png">
+
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/97850156/200449996-46cf9a2b-614c-4905-9b25-552c903e2bac.png">
+
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/97850156/200450026-6ef0ca6c-73c8-4886-a456-67a33466ec81.png">
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/97850156/200450063-b944dddd-00c2-4116-9d10-452963ace2d6.png">
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/97850156/200450102-a9a1e67d-17af-4dcd-9a14-1d6775bf839e.png">
+
+<img width="683" alt="image" src="https://user-images.githubusercontent.com/97850156/200450125-288d5b34-af00-4b4d-8b15-cd3a7d780413.png">
+
+![image](https://user-images.githubusercontent.com/97850156/200450142-753ce72f-ed43-4665-a55f-015c6e1be8b4.png)
+
+<img width="686" alt="image" src="https://user-images.githubusercontent.com/97850156/200450173-64f76cce-8d24-4132-9bd1-6c4afca83b1f.png">
+
+
+
