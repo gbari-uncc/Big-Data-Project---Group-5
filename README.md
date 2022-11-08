@@ -22,7 +22,7 @@
     
 ## 3) Selection of relevant data from the sample datasets for AWS Sagemaker:-
  
- ### Flight Delay Prediction | Kaggle (https://www.kaggle.com/datasets/whenamancodes/flight-delay-prediction)
+ ### Flight Delay Prediction | Kaggle ([https://www.kaggle.com/datasets/whenamancodes/flight-delay-prediction](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022.parquet))
  
 
 ## 4) Research Objectives and Question(s) 
