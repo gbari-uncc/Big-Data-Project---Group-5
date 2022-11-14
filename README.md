@@ -50,12 +50,14 @@ Note: The scope of the questions might change as we further dwell into the proje
  - We used AWS s3 copy command to load the data into Jupyter notebook instance. 
  - Combined the data into a combined dataframe.
  - <img width="857" alt="image" src="https://user-images.githubusercontent.com/97850156/200449617-42702e5a-c401-4049-a5c3-ea38d781df22.png">
-
+ - <img width="847" alt="Dataprep" src="https://user-images.githubusercontent.com/97850156/201775342-8c0ef819-20dd-4d39-a7f7-02c46526dfe0.png">
 
 
 ## 6)  Data Understanding
 - We used Numpy and Pandas to understand and explore the data.
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/97850156/200449876-59bf321f-1921-4831-816f-fdc91fafa860.png">
+<img width="565" alt="Data" src="https://user-images.githubusercontent.com/97850156/201775389-a120e463-a8f4-4cbe-a462-6a801dc1e2f6.png">
+[Dashboard.pdf](https://github.com/gbari-uncc/Big-Data-Project---Group-5/files/10007388/Dashboard.pdf)
 
 - <img width="769" alt="image" src="https://user-images.githubusercontent.com/97850156/200449947-73900dce-4e58-4b01-9d8f-da894d9cbb50.png">
 
