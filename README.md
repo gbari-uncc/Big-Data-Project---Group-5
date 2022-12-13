@@ -1,5 +1,7 @@
 # Big-Data-Project---Group-5
 
+## Deliverable 1:
+
 ## 1) Team:-
 
   ###   a)  Members: 
@@ -43,6 +45,7 @@
   
 Note: The scope of the questions might change as we further dwell into the project.
 
+## Deliverable 2:
 
 ## 5)  Data Preparation
 
@@ -76,4 +79,153 @@ Note: The scope of the questions might change as we further dwell into the proje
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/97850156/200450173-64f76cce-8d24-4132-9bd1-6c4afca83b1f.png">
 
 
+## Deliverable 3:
+
+- Analytics and Machine Learning and Optimization
+
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207449977-f65b0554-e691-4f5e-a3e5-e133c355b38e.png">
+
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/97850156/207450170-94228c5c-dc1b-4f59-9b55-944d9dd454a4.png">
+
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207450277-d16ee64a-d4ca-4271-adb9-cd7dd7207301.png">
+
+<img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207450381-dab0f9cc-03b0-48e6-94dc-7874029c2bd2.png">
+
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/97850156/207451172-78486678-6d02-4518-a9ff-1877c2f7308a.png">
+
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/97850156/207452836-7ce7cc8e-b23d-4d24-ac9d-0c0ce2cd3cd1.png">
+
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207452908-87401957-e5eb-4bf7-84f6-86147fe40d4c.png">
+
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/97850156/207452980-63b0bfde-5e13-4a4f-bb81-10ab08e8ef12.png">
+
+<img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207453052-093f7aa9-433a-482a-8187-b732518827da.png">
+
+<img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207453112-8624d7e7-5b03-40af-ae88-dc7d65f94b87.png">
+
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207453180-21252dbb-bc44-4909-995c-bce07badb5fc.png">
+
+<img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207453235-21eabb12-42be-4310-accb-6153c755989c.png">
+
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/97850156/207453307-443ee3da-cc6b-4832-9d81-f8448bd12f3d.png">
+
+```html
+             0
+0    20.176585
+1   208.581594
+2   426.553412
+3    16.410661
+4    22.687018
+5    18.051113
+6    50.080698
+7    49.147168
+8    19.351202
+9    63.511906
+10   23.850544
+11  190.597907
+12   19.959836
+13   44.020083
+14   16.563783
+15   14.374764
+16   33.403286
+17   14.397641
+18   50.776503
+19   37.195911
+20   83.182348
+21   25.566673
+22   20.618916
+23   14.275758
+24   38.672630
+25   63.653597
+26   32.377515
+27   64.327716
+28   20.046318
+29   34.684758
+30   22.970605
+31   38.513460
+32  122.970126
+33   29.906043
+34   23.689658
+35   12.514527
+36   18.191116
+37   71.391931
+38   31.888733
+39   23.355439
+40   29.525741
+41   34.726918
+42   11.939698
+43   37.616881
+44   31.355444
+45   25.944583
+46   98.901231
+47   26.847189
+48   19.450522
+49   13.278765
+MSE = 116.02060520253548
+```
+
+<img width="920" alt="image" src="https://user-images.githubusercontent.com/97850156/207453493-cb58d592-246d-402b-b77b-3fab93e2683f.png">
+
+```html
+             0
+0    23.619310
+1   172.000000
+2   411.333333
+3    23.619310
+4    23.619310
+5    23.619310
+6    38.568330
+7    38.568330
+8    23.619310
+9    60.448000
+10   23.619310
+11  172.000000
+12   23.619310
+13   38.568330
+14   23.619310
+15   23.619310
+16   38.568330
+17   23.619310
+18   38.568330
+19   38.568330
+20   89.305556
+21   23.619310
+22   23.619310
+23   23.619310
+24   38.568330
+25   60.448000
+26   38.568330
+27   60.448000
+28   23.619310
+29   38.568330
+30   23.619310
+31   38.568330
+32  121.500000
+33   23.619310
+34   23.619310
+35   23.619310
+36   23.619310
+37   60.448000
+38   38.568330
+39   23.619310
+40   23.619310
+41   38.568330
+42   23.619310
+43   23.619310
+44   38.568330
+45   23.619310
+46   89.305556
+47   23.619310
+48   23.619310
+49   23.619310
+MSE = 747.5768280988062
+```
+<img width="863" alt="image" src="https://user-images.githubusercontent.com/97850156/207453683-ec698e6f-718e-4a81-a54a-82f543df2161.png">
+
+![image](https://user-images.githubusercontent.com/97850156/207453711-a294d337-e2be-481c-8db0-9ab34f00c855.png)
+
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/97850156/207453772-11698609-ea0b-43bd-9f03-7cf343134cf1.png">
+
+
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/97850156/207453833-7d4c612c-87db-476a-ac4f-e836d71a1f0a.png">
 
