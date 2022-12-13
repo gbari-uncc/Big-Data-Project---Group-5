@@ -81,7 +81,7 @@ Note: The scope of the questions might change as we further dwell into the proje
 
 ## Deliverable 3:
 
-- Analytics and Machine Learning and Optimization
+- Analytics and Machine Learning and Optimization and Results
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207449977-f65b0554-e691-4f5e-a3e5-e133c355b38e.png">
 
@@ -229,3 +229,5 @@ MSE = 747.5768280988062
 
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/97850156/207453833-7d4c612c-87db-476a-ac4f-e836d71a1f0a.png">
 
+ -- Future Work
+ 
