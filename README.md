@@ -90,10 +90,13 @@ Note: The scope of the questions might change as we further dwell into the proje
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207450277-d16ee64a-d4ca-4271-adb9-cd7dd7207301.png">
 
 <img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207450381-dab0f9cc-03b0-48e6-94dc-7874029c2bd2.png">
+ ### Heat maps to determine correlations between different dataset variables
 
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/97850156/207451172-78486678-6d02-4518-a9ff-1877c2f7308a.png">
 
 <img width="926" alt="image" src="https://user-images.githubusercontent.com/97850156/207452836-7ce7cc8e-b23d-4d24-ac9d-0c0ce2cd3cd1.png">
+
+### Data Preparation for the ML model
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207452908-87401957-e5eb-4bf7-84f6-86147fe40d4c.png">
 
@@ -105,7 +108,11 @@ Note: The scope of the questions might change as we further dwell into the proje
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207453180-21252dbb-bc44-4909-995c-bce07badb5fc.png">
 
+### Data Preparation for the ML model
+
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207453235-21eabb12-42be-4310-accb-6153c755989c.png">
+
+### Linear Regression Model Evaluation
 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/97850156/207453307-443ee3da-cc6b-4832-9d81-f8448bd12f3d.png">
 
@@ -222,32 +229,40 @@ MSE = 747.5768280988062
 ```
 <img width="863" alt="image" src="https://user-images.githubusercontent.com/97850156/207453683-ec698e6f-718e-4a81-a54a-82f543df2161.png">
 
+### Decision Tree Regression Model Evaluation
+
 ![image](https://user-images.githubusercontent.com/97850156/207478832-fb9aff05-ef52-4811-8139-6bd67e47dd17.png)
+
+### Regression Analysis
 
 <img width="869" alt="image" src="https://user-images.githubusercontent.com/97850156/207453772-11698609-ea0b-43bd-9f03-7cf343134cf1.png">
 
+### Decision Tree Regression Model Evaluation
 
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/97850156/207479825-0ad0092c-1486-4b9e-b499-6b65a2581cd2.png">
 
  ##  Future Work
  
 1. What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
-It was challenging to work with millions of rows of flight delay data. We had to do rigorous and uniform data transformation and cleansing to remove null values and outliers from our data. We also had to reduce our dataset columns count and only keep key columns which would affect and be important during our visualizations.
+
+> It was challenging to work with millions of rows of flight delay data. We had to do rigorous and uniform data transformation and cleansing to remove null values   and outliers from our data. We also had to reduce our dataset columns count and only keep key columns which would affect and be important during our      visualizations.
+  
 
 2. Did you create any new additional features / variables?
-Yes, we had to create additional feature during the data preparation and understanding stage. Our source dataset was a single file with size ~5GB so we had to break it down into chunks and clean each batch separately to remove outliers. Once completed, we then merged all these batches into a unified single file which was then used for data visualizations and machine learning model building. AWS Sagemaker notebook instances have a strict size restriction so we had to be careful and ensure notebook instance doesn’t crash. To overcome this limitation, we had to break our dataset into parts and then unify it later.
+
+> Yes, we had to create additional feature during the data preparation and understanding stage. Our source dataset was a single file with size ~5GB so we had to break it down into chunks and clean each batch separately to remove outliers. Once completed, we then merged all these batches into a unified single file which was then used for data visualizations and machine learning model building. AWS Sagemaker notebook instances have a strict size restriction so we had to be careful and ensure notebook instance doesn’t crash. To overcome this limitation, we had to break our dataset into parts and then unify it later.
 
 3. What was the process you used for evaluation?  What was the best result?
-We used Linear regression and Decision Tree Regression supervised learning techniques for building our machine learning model. We got 83% accuracy using linear regression and 84% accuracy using Decision Tree Regression. 
+> We used Linear regression and Decision Tree Regression supervised learning techniques for building our machine learning model. We got 83% accuracy using linear regression and 84% accuracy using Decision Tree Regression. 
 
 4. Is there Bias in your work? What were the problems you faced? How did you solve them?
-We have worked collectively by allocating different tasks to different team members and worked collectively to resolve any roadblocks when occurred.
+> We have worked collectively by allocating different tasks to different team members and worked collectively to resolve any roadblocks when occurred.
 
 5. What future work would you like to do? 
-We want to apply other regression models or machine learning to our data to identify better accuracy and reduced mean square error.
+> We want to apply other regression models or machine learning to our data to identify better accuracy and reduced mean square error.
 
 6. Instructions for individuals that may want to use your work
-People interested in using our work could keep below points in mind which would help them in implementing similar results:-
+> People interested in using our work could keep below points in mind which would help them in implementing similar results:-
 Install necessary python libraries primarily Numpy, Pandas, MatPlotlib, Sns and sklearn which are heavily used in this project implementation.
 Perform thorough data cleansing, transformation and preparation so as to ensure most of the outliers are removed from the dataset. This would give accurate visualizations and machine learning model accuracies.
 
