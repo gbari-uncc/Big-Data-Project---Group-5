@@ -275,6 +275,10 @@ MSE = 747.5768280988062
 Install necessary python libraries primarily Numpy, Pandas, MatPlotlib, Sns and sklearn which are heavily used in this project implementation.
 Perform thorough data cleansing, transformation and preparation so as to ensure most of the outliers are removed from the dataset. This would give accurate visualizations and machine learning model accuracies.
 
+## Narrated Presentation
+https://github.com/gbari-uncc/Big-Data-Project---Group-5/blob/main/Narrated%20Presentation.mp4
+
+
 
 
 
