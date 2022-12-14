@@ -89,7 +89,7 @@
 
 ## Deliverable 3:
 
-### - Analytics and Machine Learning and Optimization and Results
+### - 7) 8) 9) Analytics and Machine Learning and Optimization and Results
 
 <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207449977-f65b0554-e691-4f5e-a3e5-e133c355b38e.png">
 
@@ -250,7 +250,7 @@ MSE = 747.5768280988062
 
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/97850156/207479825-0ad0092c-1486-4b9e-b499-6b65a2581cd2.png">
 
- ##  Future Work
+ ##  10) Future Work
  
 1. What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
 
