@@ -91,39 +91,39 @@
 
 ### - 7) 8) 9) Analytics and Machine Learning and Optimization and Results
 
-<img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207449977-f65b0554-e691-4f5e-a3e5-e133c355b38e.png">
+> <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207449977-f65b0554-e691-4f5e-a3e5-e133c355b38e.png">
 
-<img width="917" alt="image" src="https://user-images.githubusercontent.com/97850156/207450170-94228c5c-dc1b-4f59-9b55-944d9dd454a4.png">
+> <img width="917" alt="image" src="https://user-images.githubusercontent.com/97850156/207450170-94228c5c-dc1b-4f59-9b55-944d9dd454a4.png">
 
-<img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207450277-d16ee64a-d4ca-4271-adb9-cd7dd7207301.png">
+> <img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207450277-d16ee64a-d4ca-4271-adb9-cd7dd7207301.png">
 
-<img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207450381-dab0f9cc-03b0-48e6-94dc-7874029c2bd2.png">
+> <img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207450381-dab0f9cc-03b0-48e6-94dc-7874029c2bd2.png">
  
  ### Heat maps to determine correlations between different dataset variables
 
-<img width="915" alt="image" src="https://user-images.githubusercontent.com/97850156/207451172-78486678-6d02-4518-a9ff-1877c2f7308a.png">
+> <img width="915" alt="image" src="https://user-images.githubusercontent.com/97850156/207451172-78486678-6d02-4518-a9ff-1877c2f7308a.png">
 
-<img width="926" alt="image" src="https://user-images.githubusercontent.com/97850156/207452836-7ce7cc8e-b23d-4d24-ac9d-0c0ce2cd3cd1.png">
-
-### Data Preparation for the ML model
-
-<img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207452908-87401957-e5eb-4bf7-84f6-86147fe40d4c.png">
-
-<img width="932" alt="image" src="https://user-images.githubusercontent.com/97850156/207452980-63b0bfde-5e13-4a4f-bb81-10ab08e8ef12.png">
-
-<img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207453052-093f7aa9-433a-482a-8187-b732518827da.png">
-
-<img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207453112-8624d7e7-5b03-40af-ae88-dc7d65f94b87.png">
-
-<img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207453180-21252dbb-bc44-4909-995c-bce07badb5fc.png">
+> <img width="926" alt="image" src="https://user-images.githubusercontent.com/97850156/207452836-7ce7cc8e-b23d-4d24-ac9d-0c0ce2cd3cd1.png">
 
 ### Data Preparation for the ML model
 
-<img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207453235-21eabb12-42be-4310-accb-6153c755989c.png">
+> <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207452908-87401957-e5eb-4bf7-84f6-86147fe40d4c.png">
+
+> <img width="932" alt="image" src="https://user-images.githubusercontent.com/97850156/207452980-63b0bfde-5e13-4a4f-bb81-10ab08e8ef12.png">
+
+> <img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207453052-093f7aa9-433a-482a-8187-b732518827da.png">
+
+> <img width="923" alt="image" src="https://user-images.githubusercontent.com/97850156/207453112-8624d7e7-5b03-40af-ae88-dc7d65f94b87.png">
+
+> <img width="925" alt="image" src="https://user-images.githubusercontent.com/97850156/207453180-21252dbb-bc44-4909-995c-bce07badb5fc.png">
+
+### Data Preparation for the ML model
+
+> <img width="922" alt="image" src="https://user-images.githubusercontent.com/97850156/207453235-21eabb12-42be-4310-accb-6153c755989c.png">
 
 ### Linear Regression Model Evaluation
 
-<img width="929" alt="image" src="https://user-images.githubusercontent.com/97850156/207453307-443ee3da-cc6b-4832-9d81-f8448bd12f3d.png">
+> <img width="929" alt="image" src="https://user-images.githubusercontent.com/97850156/207453307-443ee3da-cc6b-4832-9d81-f8448bd12f3d.png">
 
 ```html
              0
@@ -180,7 +180,7 @@
 MSE = 116.02060520253548
 ```
 
-<img width="920" alt="image" src="https://user-images.githubusercontent.com/97850156/207453493-cb58d592-246d-402b-b77b-3fab93e2683f.png">
+> <img width="920" alt="image" src="https://user-images.githubusercontent.com/97850156/207453493-cb58d592-246d-402b-b77b-3fab93e2683f.png">
 
 ```html
              0
@@ -236,19 +236,19 @@ MSE = 116.02060520253548
 49   23.619310
 MSE = 747.5768280988062
 ```
-<img width="863" alt="image" src="https://user-images.githubusercontent.com/97850156/207453683-ec698e6f-718e-4a81-a54a-82f543df2161.png">
+> <img width="863" alt="image" src="https://user-images.githubusercontent.com/97850156/207453683-ec698e6f-718e-4a81-a54a-82f543df2161.png">
 
 ### Decision Tree Regression Model Evaluation
 
-![image](https://user-images.githubusercontent.com/97850156/207478832-fb9aff05-ef52-4811-8139-6bd67e47dd17.png)
+> ![image](https://user-images.githubusercontent.com/97850156/207478832-fb9aff05-ef52-4811-8139-6bd67e47dd17.png)
 
 ### Regression Analysis
 
-<img width="869" alt="image" src="https://user-images.githubusercontent.com/97850156/207453772-11698609-ea0b-43bd-9f03-7cf343134cf1.png">
+> <img width="869" alt="image" src="https://user-images.githubusercontent.com/97850156/207453772-11698609-ea0b-43bd-9f03-7cf343134cf1.png">
 
 ### Decision Tree Regression Model Evaluation
 
-<img width="848" alt="image" src="https://user-images.githubusercontent.com/97850156/207479825-0ad0092c-1486-4b9e-b499-6b65a2581cd2.png">
+> <img width="848" alt="image" src="https://user-images.githubusercontent.com/97850156/207479825-0ad0092c-1486-4b9e-b499-6b65a2581cd2.png">
 
  ##  10) Future Work
  
