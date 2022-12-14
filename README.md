@@ -227,23 +227,14 @@ MSE = 747.5768280988062
 <img width="869" alt="image" src="https://user-images.githubusercontent.com/97850156/207453772-11698609-ea0b-43bd-9f03-7cf343134cf1.png">
 
 
-<img width="870" alt="image" src="https://user-images.githubusercontent.com/97850156/207453833-7d4c612c-87db-476a-ac4f-e836d71a1f0a.png">
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/97850156/207479825-0ad0092c-1486-4b9e-b499-6b65a2581cd2.png">
 
- -- Future Work
+ > Future Work
  
 1. What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
 It was challenging to work with millions of rows of flight delay data. We had to do rigorous and uniform data transformation and cleansing to remove null values and outliers from our data. We also had to reduce our dataset columns count and only keep key columns which would affect and be important during our visualizations.
 
 2. Did you create any new additional features / variables?
-Yes, we had to create additional feature during the data preparation and understanding stage. Our source dataset was a single file with size ~5GB so we had to break it down into chunks and clean each batch separately to remove outliers. Once completed, we then merged all these batches into a unified single file which was then used for data visualizations and machine learning model building. AWS Sagemaker notebook instances have a strict size restriction so we had to be careful and ensure notebook instance doesn’t crash. To overcome this limitation, we had to break our dataset into parts and then unify it later.
-
-3. What was the process you used for evaluation?  What was the best result?
-We used Linear regression and Decision Tree Regression supervised learning techniques for building our machine learning model. We got 83% accuracy using linear regression and 84% accuracy using Decision Tree Regression. 
-
-. What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
-It was challenging to work with millions of rows of flight delay data. We had to do rigorous and uniform data transformation and cleansing to remove null values and outliers from our data. We also had to reduce our dataset columns count and only keep key columns which would affect and be important during our visualizations.
-. Did you create any new additional features / variables?
-
 Yes, we had to create additional feature during the data preparation and understanding stage. Our source dataset was a single file with size ~5GB so we had to break it down into chunks and clean each batch separately to remove outliers. Once completed, we then merged all these batches into a unified single file which was then used for data visualizations and machine learning model building. AWS Sagemaker notebook instances have a strict size restriction so we had to be careful and ensure notebook instance doesn’t crash. To overcome this limitation, we had to break our dataset into parts and then unify it later.
 
 3. What was the process you used for evaluation?  What was the best result?
