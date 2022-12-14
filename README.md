@@ -229,7 +229,7 @@ MSE = 747.5768280988062
 
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/97850156/207479825-0ad0092c-1486-4b9e-b499-6b65a2581cd2.png">
 
- > Future Work
+ ##  Future Work
  
 1. What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
 It was challenging to work with millions of rows of flight delay data. We had to do rigorous and uniform data transformation and cleansing to remove null values and outliers from our data. We also had to reduce our dataset columns count and only keep key columns which would affect and be important during our visualizations.
